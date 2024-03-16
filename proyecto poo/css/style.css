@@ -1,0 +1,14 @@
+body{
+    background-color:#162B4E;
+    color: beige;
+}
+
+.contenedor{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    background-color:#162B4E;
+    color: beige;
+}
